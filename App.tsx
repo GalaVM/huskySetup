@@ -28,7 +28,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App = () => {
-  return <SafeAreaView />;
+  return <SafeAreaView>Learn Husky</SafeAreaView>;
 };
 
 export default App;
